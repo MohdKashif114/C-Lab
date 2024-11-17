@@ -1,0 +1,3 @@
+1. Calculate the size of various data types in bytes, then prints the size in bits.
+2. Demonstrate the use of typedef by creating a custom data type that represents complex numbers (float real and float imaginary) and performs basic operations like addition and subtraction 
+3. Generate a menu based simple calculator with functions for addition, subtraction, multiplication, and division using a switch statement.
